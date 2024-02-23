@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project delves into the world of 3D modeling with Neural Radiance Fields (NRF), showcasing the creation of a 3D model for Wolverine. The NRF approach allows for highly detailed and realistic 3D reconstructions from a set of images.
+This project delves into the world of 3D modeling with Neural Radiance Fields (NeRF), showcasing the creation of a 3D model for Wolverine. The NeRF approach allows for highly detailed and realistic 3D reconstructions from a set of images.
 
 ## Features
 
